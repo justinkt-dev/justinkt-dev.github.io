@@ -9,12 +9,27 @@ title    = "Justin Kombe Tonguino"
 [params]
   description = "Offensive Security & ArcGIS Research"
   goToTop     = true
+  dateFormat  = "2 Jan 2006"
 
   [params.author]
     name        = "Justin Kombe Tonguino"
     avatar      = "avatar.webp"
     intro       = "Justin Kombe Tonguino"
     description = "GIS Analyst | Security Researcher"
+
+[menu]
+  [[menu.main]]
+    name   = "Home"
+    url    = "/"
+    weight = 1
+  [[menu.main]]
+    name   = "Posts"
+    url    = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name   = "About"
+    url    = "/about/"
+    weight = 3
 
 [[params.socialIcons]]
 name = "github"
@@ -27,19 +42,3 @@ url  = "https://linkedin.com/in/jkt112"
 [[params.socialIcons]]
 name = "medium"
 url  = "https://justinkt.medium.com"
-
-[menu]
-  [[menu.main]]
-    name       = "Home"
-    url        = "/"
-    weight     = 1
-
-  [[menu.main]]
-    name       = "Posts"
-    url        = "/posts/"
-    weight     = 2
-
-  [[menu.main]]
-    name       = "About"
-    url        = "/about/"
-    weight     = 3
