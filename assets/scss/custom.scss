@@ -11,20 +11,23 @@
   max-width: 860px;
 }
 
-/* ── Fix date wrapping on post cards ────────────────────────────── */
-.post-item {
+/* ── Fix date wrapping on post list cards only ──────────────────── */
+.posts-list .post-item,
+.page-content > .post-item {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 1rem;
 }
 
-.post-item-title {
+.posts-list .post-item-title,
+.page-content > .post-item .post-item-title {
   flex: 1;
   min-width: 0;
 }
 
-.post-item-meta {
+.posts-list .post-item-meta,
+.page-content > .post-item .post-item-meta {
   white-space: nowrap;
   flex-shrink: 0;
 }

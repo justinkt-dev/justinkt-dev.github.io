@@ -42,3 +42,5 @@ url  = "https://linkedin.com/in/jkt112"
 [[params.socialIcons]]
 name = "medium"
 url  = "https://justinkt.medium.com"
+
+copyright = "2026"
