@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ── Layout width ───────────────────────────────────────────────── */
+.main {
+  max-width: 860px;
+  width: 92%;
+  margin: 0 auto;
+}
+
+.post-content {
+  max-width: 860px;
+}
+
+/* ── Global justify — hits every page ──────────────────────────── */
+body {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* ── Exceptions — things that should never be justified ────────── */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Syne', sans-serif;
+  text-align: left;
+}
+
+code, pre, .highlight, .chroma {
+  font-family: 'JetBrains Mono', monospace;
+  text-align: left;
+}
+
+nav, nav a, .nav-links, header {
+  text-align: left;
+}
+
+.author-name, .author-bio {
+  text-align: center;
+}
+
+/* ── Typography ─────────────────────────────────────────────────── */
+nav a {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+}

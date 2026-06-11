@@ -16,10 +16,6 @@ title    = "Justin Kombe Tonguino"
     intro       = "Justin Kombe Tonguino"
     description = "GIS Analyst | Security Researcher"
 
-[params.homeInfoParams]
-  title   = "Justin Kombe Tonguino"
-  content = "Offensive Security & ArcGIS Research"
-
 [[params.socialIcons]]
 name = "github"
 url  = "https://github.com/justinkt-dev"
@@ -31,3 +27,19 @@ url  = "https://linkedin.com/in/jkt112"
 [[params.socialIcons]]
 name = "medium"
 url  = "https://justinkt.medium.com"
+
+[menu]
+  [[menu.main]]
+    name       = "Home"
+    url        = "/"
+    weight     = 1
+
+  [[menu.main]]
+    name       = "Posts"
+    url        = "/posts/"
+    weight     = 2
+
+  [[menu.main]]
+    name       = "About"
+    url        = "/about/"
+    weight     = 3
