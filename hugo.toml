@@ -1,0 +1,33 @@
+baseURL  = "https://justinkt-dev.github.io/"
+locale   = "en-gb"
+title    = "Justin Kombe Tonguino"
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[params]
+  description = "Offensive Security & ArcGIS Research"
+  goToTop     = true
+
+  [params.author]
+    name        = "Justin Kombe Tonguino"
+    avatar      = "avatar.webp"
+    intro       = "Justin Kombe Tonguino"
+    description = "GIS Analyst | Security Researcher"
+
+[params.homeInfoParams]
+  title   = "Justin Kombe Tonguino"
+  content = "Offensive Security & ArcGIS Research"
+
+[[params.socialIcons]]
+name = "github"
+url  = "https://github.com/justinkt-dev"
+
+[[params.socialIcons]]
+name = "linkedin"
+url  = "https://linkedin.com/in/jkt112"
+
+[[params.socialIcons]]
+name = "medium"
+url  = "https://justinkt.medium.com"
