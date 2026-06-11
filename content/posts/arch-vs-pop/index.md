@@ -1,5 +1,5 @@
 ---
-title: "Arch Linux Vs Pop!_OS: The Ultimate Guide for Developers and Security Experts"
+title: "Arch Linux Vs Pop!_OS: Ultimate Guide for Developers and Security Experts"
 date: 2025-01-23
 description: "A comprehensive guide to choosing the right Linux distribution for your needs — my personal experience with Arch Linux and Pop!_OS."
 tags: ["linux", "arch-linux", "pop-os", "distributions"]

@@ -1,5 +1,5 @@
 ---
-title: "From Classroom to HackTheBox: My Journey Through Cybersecurity Degree, Certifications, and the Power of Practical Experience"
+title: "My Journey Through Cybersecurity: Deegree, Certs, and Hands-On Practice"
 date: 2025-05-27
 description: "Should you pursue a degree, stack certifications, or dive straight into practical experience? An honest breakdown from an aspiring offensive security professional."
 tags: ["certifications", "htb", "tryhackme", "career", "cybersecurity"]

@@ -11,14 +11,26 @@
   max-width: 860px;
 }
 
-/* ── Global justify — hits every page ──────────────────────────── */
-body {
-  text-align: justify;
-  hyphens: auto;
+/* ── Fix date wrapping on post cards ────────────────────────────── */
+.post-item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
 }
 
-/* ── Exceptions — things that should never be justified ────────── */
-h1, h2, h3, h4, h5, h6 {
+.post-item-title {
+  flex: 1;
+  min-width: 0;
+}
+
+.post-item-meta {
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* ── Typography ─────────────────────────────────────────────────── */
+h1, h2, h3, h4 {
   font-family: 'Syne', sans-serif;
   text-align: left;
 }
@@ -28,15 +40,6 @@ code, pre, .highlight, .chroma {
   text-align: left;
 }
 
-nav, nav a, .nav-links, header {
-  text-align: left;
-}
-
-.author-name, .author-bio {
-  text-align: center;
-}
-
-/* ── Typography ─────────────────────────────────────────────────── */
 nav a {
   font-family: 'JetBrains Mono', monospace;
   font-size: 13px;

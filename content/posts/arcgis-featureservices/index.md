@@ -1,5 +1,5 @@
 ---
-title: "ArcGIS Feature Services: Common Issues, Tips and Effective Solutions You Need to Know"
+title: "ArcGIS Feature Services: Common Issues, Tips and Effective Solutions"
 date: 2025-06-06
 description: "Overview, common issues, solutions and best practices for ArcGIS Feature Services in Enterprise and Online environments."
 tags: ["arcgis", "gis", "feature-services", "troubleshooting", "best-practices"]

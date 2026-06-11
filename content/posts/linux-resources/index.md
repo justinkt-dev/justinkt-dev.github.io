@@ -1,5 +1,5 @@
 ---
-title: "RH124, RH134 & DO457 — A Deep Dive into Key Concepts, Learning Resources and Personal Insights"
+title: "RH124, RH134 & DO457 - Key Concepts, Learning Resources and Insights"
 date: 2025-02-22
 description: "Must-know resources and materials to get you started with Linux, System Administration, and security analysis."
 tags: ["linux", "red-hat", "rhcsa", "sysadmin", "htb", "tryhackme"]

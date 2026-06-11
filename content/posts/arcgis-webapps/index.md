@@ -1,5 +1,5 @@
 ---
-title: "ArcGIS Web Applications: Overview, Common Issues, Solutions & Best Practices"
+title: "ArcGIS Web Apps: Overview, Common Issues, Solutions & Best Practices"
 date: 2025-06-20
 description: "Overview, common issues, solutions and best practices for ArcGIS Web Applications — Experience Builder and Web AppBuilder."
 tags: ["arcgis", "gis", "web-applications", "experience-builder", "troubleshooting"]

@@ -1,5 +1,5 @@
 ---
-title: "TryHackMe Red Teaming Pathway — Full Review"
+title: "TryHackMe Red Teaming Pathway - Full Review"
 date: 2024-12-06
 description: "A full breakdown of the TryHackMe Red Teaming path — adversary simulation, evasion, Active Directory, and key takeaways."
 tags: ["tryhackme", "red-team", "certifications", "walkthrough"]
