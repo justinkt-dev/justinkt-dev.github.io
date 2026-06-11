@@ -7,6 +7,8 @@ toc: true
 draft: false
 ---
 
+![Linux Resources](linux-resources.webp)
+
 ## Introduction
 
 Linux is a very common topic nowadays in the world of software development, system administration, DevOps, database management, and security operations. In this blog, I tried to cover as much as I could — not only on RH124, RH134, and DO457 — but also on Linux in general, highlighting useful materials and resources for future reference.
@@ -14,6 +16,8 @@ Linux is a very common topic nowadays in the world of software development, syst
 **Disclaimer:** It's crucial to understand your learning style then adapt to what is most convenient for yourself. There are several ways to learn and master Linux — whether from official documentation, YouTube channels, or third-party providers. Feel free to share and recommend more tips and materials. Let's dive in!
 
 ## System Administration I (RH124)
+
+![System Administration I (RH124)](rh124.webp)
 
 RH124 is an introductory course covering the fundamental skills needed to manage and administer Red Hat Enterprise Linux systems. Key topics covered:
 
@@ -25,6 +29,8 @@ RH124 is an introductory course covering the fundamental skills needed to manage
 
 ## System Administration II (RH134)
 
+![System Administration II (RH134)](rh134.webp)
+
 RH134 builds on RH124 and dives deeper into advanced system administration topics. Key concepts:
 
 1. **Advanced User & Group Management** — sudo privileges, ACLs, and SELinux policies.
@@ -34,6 +40,8 @@ RH134 builds on RH124 and dives deeper into advanced system administration topic
 5. **System Automation & Scripting** — Writing Bash scripts to automate administration tasks.
 
 ## Network Automation with Ansible (DO457)
+
+![Network Automation with Ansible (DO457)](do457.webp)
 
 DO457 focuses on automating network management tasks using Ansible. Key points:
 

@@ -7,6 +7,8 @@ toc: true
 draft: false
 ---
 
+![ArcGIS Feature Services](arcgisservices.webp)
+
 > **Heads-up:** This post may differ from the usual OpSec content. It's part of my GeoTech Logbook Series, centered around GIS insights where I explore and document practical GIS challenges and lessons.
 
 ## Introduction
@@ -33,6 +35,8 @@ Feature Services can be hosted (stored in ArcGIS Online or Portal), referenced (
 ## Service-Type Specific Guidance
 
 > **Note:** Every ArcGIS Enterprise deployment is different. Troubleshooting steps may not always yield the same results. Always investigate systematically and tailor solutions to your specific environment.
+
+![ArcGIS Data Stores](arcgisdatastores.webp)
 
 ### Copied Data Stores
 

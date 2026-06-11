@@ -7,6 +7,8 @@ toc: true
 draft: false
 ---
 
+![Data Recovery](data-recovery.webp)
+
 ## Introduction
 
 Data recovery can be a lifesaver, especially when dealing with Logical Disk Manager (LDM) volumes. Using `ldmtool` — a utility designed for managing Windows LDM partitions on Linux — we can mount and access these volumes easily.

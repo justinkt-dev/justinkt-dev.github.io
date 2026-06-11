@@ -1,11 +1,13 @@
 ---
-title: "My Journey Through Cybersecurity: Deegree, Certs, and Hands-On Practice"
+title: "My Journey Through Cybersecurity: Degree, Certifications, and Hands-on Labs"
 date: 2025-05-27
 description: "Should you pursue a degree, stack certifications, or dive straight into practical experience? An honest breakdown from an aspiring offensive security professional."
 tags: ["certifications", "htb", "tryhackme", "career", "cybersecurity"]
 toc: true
 draft: false
 ---
+
+![Cybersecurity Journey](cybersec.webp)
 
 ## Introduction
 
@@ -98,7 +100,7 @@ Relevant certs: RHCSA/RHCE (Linux), LPIC-1, Windows Server Admin, Microsoft SC-9
 Mastering programming and scripting enables you to go beyond simple certifications and exploitations — automation, tool development, and exploit analysis.
 
 - **Python** → Scripting, automation, recon tools, exploit writing.
-- **C/C++** → Binary exploitation, buffer overflows, malware development. Check out [MalDev Academy](https://maldevacademy.com/) if you're interested.
+- **C/C++** → Binary exploitation, buffer overflows, malware development.
 - **Go / Rust** → Speed and robustness. Known for modern malware and cross-platform tools. I am currently learning both.
 - **PowerShell / Bash** → Native scripting for Windows/Linux ops and attacks.
 

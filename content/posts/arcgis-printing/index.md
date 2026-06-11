@@ -7,6 +7,8 @@ toc: true
 draft: false
 ---
 
+![ArcGIS Printing Services](arcgisprinting.webp)
+
 > **Disclaimer:** While this might not align with typical OpSec content, this article is part of the GeoTech Logbook Series — sharing GIS-related insights, technical notes, and observations for future reference and community sharing.
 
 ## Introduction

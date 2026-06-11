@@ -1,11 +1,13 @@
 ---
-title: "ArcGIS Web Apps: Overview, Common Issues, Solutions & Best Practices"
+title: "ArcGIS Web App: Overview, Common Issues, Solutions & Best Practices"
 date: 2025-06-20
 description: "Overview, common issues, solutions and best practices for ArcGIS Web Applications — Experience Builder and Web AppBuilder."
 tags: ["arcgis", "gis", "web-applications", "experience-builder", "troubleshooting"]
 toc: true
 draft: false
 ---
+
+![ArcGIS Web Applications](ArcGIS_webapp_cover.webp)
 
 > **Notice:** This is part of the GeoTech Logbook Series. If you are dealing with GIS-based systems, I hope you find some useful insights regardless of your background.
 
@@ -32,10 +34,13 @@ ArcGIS web applications are essential tools for organizations seeking to visuali
 
 ## Building and Troubleshooting Workflows
 
-Understanding how Web Applications are constructed is essential for effective troubleshooting. The key insight is the layered relationship between services, web maps, and applications:
+Understanding how Web Applications are constructed is essential for effective troubleshooting. The key insight is the layered relationship between services, web maps, and applications.
 
-- **Troubleshooting (left to right):** Start with the web application → associated web maps → the layers/services that compose those web maps.
-- **Building (right to left):** Start at the services level → web map → final application.
+![ArcGIS Web Application Troubleshooting and Building Flow](webappflow.webp)
+
+**From left to right** — the diagram illustrates the troubleshooting workflow: starting with the web application, then moving to the associated web map(s), and finally examining the layers or services that compose those web maps.
+
+**Conversely, from right to left** — it illustrates the building workflow, showing how web applications are developed beginning at the services level, progressing to the web map, and culminating in the final application.
 
 Remember that permissions, sharing settings, user types, and roles apply across all levels.
 

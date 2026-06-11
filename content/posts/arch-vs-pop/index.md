@@ -1,11 +1,13 @@
 ---
-title: "Arch Linux Vs Pop!_OS: Ultimate Guide for Developers and Security Experts"
+title: "Arch Linux Vs Pop!_OS: The Ultimate Guide for Developers and Security Experts"
 date: 2025-01-23
 description: "A comprehensive guide to choosing the right Linux distribution for your needs — my personal experience with Arch Linux and Pop!_OS."
 tags: ["linux", "arch-linux", "pop-os", "distributions"]
 toc: true
 draft: false
 ---
+
+![Arch Linux Vs Pop!_OS](archvspop.webp)
 
 ## Introduction
 
@@ -19,6 +21,8 @@ This might seem surprising to some, but I don't use Kali Linux much despite its 
 - **Arch Linux** — Known for its **"DIY"** philosophy, Arch is a minimalist rolling-release distro that lets users configure every aspect of the system. [More details](https://wiki.archlinux.org/title/Main_page)
 
 ## My Experience with Arch Linux
+
+![Arch Linux](arch-logo.webp)
 
 **Pros:**
 
@@ -41,6 +45,8 @@ This might seem surprising to some, but I don't use Kali Linux much despite its 
 - **Advanced users** — Best suited for those who enjoy tinkering and have a solid understanding of Linux internals.
 
 ## My Experience with Pop!_OS
+
+![Pop!_OS](popos-logo.webp)
 
 **Pros:**
 
@@ -76,6 +82,8 @@ This might seem surprising to some, but I don't use Kali Linux much despite its 
 | Ideal User | Beginners, productivity | Advanced users, tinkerers |
 
 ## My Personal Takeaways
+
+![Key Takeaways](key-takeaways.webp)
 
 1. **For Quick and Hassle-Free Workflows** — Pop!_OS is unbeatable for professionals who want to start working immediately.
 2. **For Full Control and Cutting-Edge Software** — Arch Linux is perfect for those willing to invest time in a highly customized system.
